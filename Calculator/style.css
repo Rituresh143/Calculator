@@ -1,0 +1,41 @@
+body{
+    background-image: url(back.jpg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container{
+    text-align: center;
+    
+     
+     
+
+}
+table{
+    margin: auto;
+    padding: 2px;
+    
+}
+
+input{
+    font-size: 31px;
+    border-radius: 10px;
+
+
+}
+
+button{
+    border-radius: 20px;
+    font-size: 29px;
+    background-color: rgb(40, 161, 131);
+    width: 90px;
+    height: 58px;
+    
+}
+h1{
+    font-size: 59px;
+    color: rgb(11, 198, 223);
+    
+}
+
+
